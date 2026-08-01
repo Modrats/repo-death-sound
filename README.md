@@ -38,5 +38,4 @@ Install via r2modman/Gale, or manually place the built `DeathSound.dll` in
 
 ## Credits
 
-This mod ships with no bundled audio or
-artwork of theirs - you provide your own sound file.
+This mod ships with no bundled audio - you provide your own sound file.
