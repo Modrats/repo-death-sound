@@ -1,0 +1,9 @@
+{
+  "name": "DeathSound",
+  "version_number": "1.0.0",
+  "website_url": "",
+  "description": "Replaces the death sound with any .wav file you drop into the mod's folder.",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2305"
+  ]
+}

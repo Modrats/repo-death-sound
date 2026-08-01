@@ -1,0 +1,8 @@
+bin/
+obj/
+
+# Personal machine paths, not portable to other contributors
+Directory.Repo.props
+
+# Local test sound files - do not publish; drop your own .wav in the deployed plugin folder instead
+*.wav
